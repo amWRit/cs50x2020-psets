@@ -7,7 +7,7 @@ Implement in Scratch any project of your choice, be it an interactive story, gam
 
 ## Week 1 C
 ### Hello
-Modify this program in such a way that it first prompts the user for their name and then prints hello, so-and-so, 
+Write a program in such a way that it first prompts the user for their name and then prints hello, so-and-so, 
 where so-and-so is their actual name.
 
 ### Mario (less)
@@ -317,8 +317,7 @@ Build a simple homepage using HTML, CSS, and JavaScript.
 Implement in your homepage directory a website that must:
 - Contain at least four different .html pages, at least one of which is index.html (the main page of your website), and
  it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
-- Use at least ten (10) distinct HTML tags besides <html>, <head>, <body>, and <title>. Using some tag (e.g., <p>) 
-multiple times still counts as just one (1) of those ten!
+- Use at least ten (10) distinct HTML tags besides <html>, <head>, <body>, and <title>. 
 - Integrate one or more features from Bootstrap into your site. Bootstrap is a popular library (that comes with lots of
  CSS classes and more) via which you can beautify your site. See Bootstrap’s documentation to get started. To add Bootstrap to your site, it suffices to include
 
