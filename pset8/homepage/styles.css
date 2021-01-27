@@ -1,0 +1,27 @@
+.navbar
+{
+    padding-left: 50px;
+    justify-content: flex-start;
+}
+
+.nav-link
+{
+    color: white;
+}
+
+.carousel-container, .course-cards
+{
+    margin-top: 5px;
+}
+
+.heading
+{
+    margin-top: 70px;
+    padding-left: 1rem;
+}
+
+.card svg
+{
+    height:200px;
+    box-shadow: 0 0 1px;
+}

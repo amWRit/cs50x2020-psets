@@ -1,0 +1,9 @@
+ask for height frome use -> store in variable height
+if height value is between 1 and 8
+    counter = 1
+    until height = 8
+        print hash counter times
+        increment counter
+else
+    print enter number between 1 and 8
+    go to step 1
